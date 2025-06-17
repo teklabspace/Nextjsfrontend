@@ -60,7 +60,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <div className='w-full relative overflow-hidden'>
+    <div className='w-full  relative overflow-hidden'>
       {/* Decorative Right-Side Shape */}
       <img
         src='/herosectionrightbg.svg'
