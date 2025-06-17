@@ -5,7 +5,7 @@ const cards = [
     description:
       'Access to Teklabspace’s Systems and Software: Access to Teklabspace’s Systems, Access, if any, to Teklabspace’s computer, telecommunication or other information systems (including computers, networks, voice mail, etc.) of any Teklabspace client or customer (“Systems”) is granted solely to facilitate the business relationship described in this Agreement, and is limited to those specific projects, time periods, and personnel designated by Teklabspace. Access is subject to business control and all applicable policies, laws and regulations. Service Provider will abide by all information protection.',
     link: 'Read More',
-    image: '/gifs/VR UI.gif',
+    image: 'https://fullego.com/VR UI.gif',
     route: 'definition',
     paragraph:
       '12.1 Access to Teklabspace’s Systems. Access, if any, to Teklabspace’s computer, telecommunication or other information systems (including computers, networks, voice mail, etc.) or those of any Teklabspace client or customer (“Systems”) is granted solely to facilitate the business relationship described in this Agreement, and is limited to those specific Systems, time periods, and personnel designated by Teklabspace. Access is subject to business control and all applicable policies, laws and regulations. Service Provider will abide by all information or those of any Teklabspace client or customer (“Systems”) is granted solely to facilitate the business relationship described in this Agreement, and is limited to those specific Systems, time periods, and personnel designated by Teklabspace. Access is subject to business control and all applicable policies, laws and regulations. Service Provider will abide by all information or those of any Teklabspace client or customer (“Systems”) is granted solely ',
@@ -18,7 +18,7 @@ const cards = [
       'Service Provider shall provide professional services (“Services”) to Teklabspace as described on one or more Statements of Work which reference this Agreement (“SOW” or “Statement of Work”). Service Provider shall perform Services in a prompt manner and deliver each Deliverable no later than the delivery dates specified in the applicable SOW. At the direction of Teklabspace, Service Provider shall provide Services directly to Teklabspace or to customers of Teklabspace on Teklabspace’s behalf. The parties may execute.',
     link: 'Read More',
     route: 'services',
-    image: '/gifs/service read more.gif',
+    image: 'https://fullego.com/service read more.gif',
     paragraph:
       'Service Provider shall provide professional services (“Services”) to Teklabspace as described on one or more Statements of Work signed by Service Provider and Teklabspace, which reference this Agreement (“SOW” or “Statement of Work”). Service Provider shall perform Services in a prompt manner and provide each Deliverable no later than the delivery dates specified in the applicable SOW. At the direction of Teklabspace, Service Provider shall provide Services directly to Teklabspace or to customers of Teklabspace on Teklabspace’s behalf. The parties may execute additional Statements of Work describing Services, which will become part of this Agreement upon execution by Service Provider and Teklabspace.',
     paragraph2: '',
@@ -29,7 +29,7 @@ const cards = [
       'The Service Provider shall not engage any third party, contractor, or subcontractor to perform any portion of the Services outlined in this Agreement without first obtaining the prior, express and written consent of Teklabspace. This restriction applies to all aspects of the Services, whether in whole or in part. Any such request for subcontracting must be submitted in writing, clearly identifying the nature of the work to be subcontracted, the qualifications of the proposed subcontractor, and the reasons.',
     link: 'Read More',
     route: 'NoSubcontractor',
-    image: '/gifs/nosubcontarctor.gif',
+    image: 'https://fullego.com/nosubcontarctor.gif',
     paragraph:
       'The Service Provider shall not engage any third party, contractor, or subcontractor to perform any portion of the Services outlined in this Agreement without first obtaining the prior, express, and written consent of Teklabspace. This restriction applies to all aspects of the Services, whether in whole or in part. Any such request for subcontracting must be submitted in writing, clearly identifying the nature of the work to be subcontracted, the qualifications of the proposed subcontractor, and the reasons for the subcontracting. Teklabspace reserves the right, at its sole discretion, to approve or deny any such request. Should the Service Provider engage any subcontractor without such written approval, Teklabspace shall have the right to consider this a material breach of the Agreement, which may result in termination of the contract and/or legal remedies.',
     paragraph2: '',
@@ -60,7 +60,7 @@ const cards = [
       '6.1 Service Provider’s Representations and Warranties: Service Provider hereby represents and warrants that:(a) Due Authority. Service Provider has full right and power to enter into and perform this Agreement without the consent of any third party, and its performance under this Agreement will not conflict with any other obligation Service Provider may have to any other party.(b) Standard of Performance. Service Provider will perform the Services in a timely, professional and workmanlike manner and with a degree of quality equal to or higher than applicable industry standards for similar services. In addition, all Services and each Deliverable shall conform in all material respects with the description set forth in the SOW.',
     link: 'Read More',
     route: 'RepresentationsAndWarranties',
-    image: '/gifs/represenations.gif',
+    image: 'https://fullego.com/represenations.gif',
     paragraph:
       '6.1 Service Provider’s Representations and Warranties: Service Provider hereby represents and warrants that:(a) Due Authority. Service Provider has full right and power to enter into and perform this Agreement without the consent of any third party, and its performance under this Agreement will not conflict with any other obligation Service Provider may have to any other party.(b) Standard of Performance. Service Provider will perform the Services in a timely, professional and workmanlike manner and with a degree of quality equal to or higher than applicable industry standards for similar services. In addition, all Services and each Deliverable shall conform in all material respects with the description set forth in the SOW.(c) No Harmful Code. The Services and all Deliverables shall be free of any: (i) viruses, worms, time bombs, Trojan horses or other harmful, malicious or destructive code; (ii) software disabling devices, time-out devices, counter devices and devices intended to collect data regarding usage of the software without the knowledge of Teklabspace and ',
     paragraph2:
@@ -72,7 +72,7 @@ const cards = [
       '7.1 Creation of Deliverables: Service Provider may make or create Deliverables during the term of any SOW or this Agreement.7.2 Disclosure and Ownership of Deliverables: Service Provider must immediately disclose to Teklabspace all Deliverables and all Intellectual Property Rights. Both the Deliverables and the Intellectual Property Rights will belong to and be the absolute property of Teklabspace or any other person Teklabspace may nominate. Service Provider hereby assigns and agrees to assign all Intellectual Property Rights and any other rights, title and interest in and to the ',
     link: 'Read More',
     route: 'InventionsAndDeliverables',
-    image: '/gifs/10.gif',
+    image: 'https://fullego.com/10.gif',
     paragraph:
       '7.1 Creation of Deliverables: Service Provider may make or create Deliverables during the term of any SOW or this Agreement.7.2 Disclosure and Ownership of Deliverables: Service Provider must immediately disclose to Teklabspace all Deliverables and all Intellectual Property Rights. Both the Deliverables and the Intellectual Property Rights will belong to and be the absolute property of Teklabspace or any other person Teklabspace may nominate. Service Provider hereby assigns and agrees to assign all Intellectual Property Rights and any other rights, title and interest in and to the Deliverables to Teklabspace.',
     paragraph2: `7.3 Protection, Registration, and Vesting of Deliverables: The Service Provider shall, immediately upon request by Teklabspace (during the engagement or after its termination), and at Teklabspace’s expense:  
@@ -97,7 +97,7 @@ const cards = [
       'In exchange for Service Provider’s obligations under this Agreement, Teklabspace shall pay Service Provider the fees set forth in the applicable SOW. All payments are due in U.S. dollars within the later of sixty (60) days of Teklabspace’s receipt of an undisputed invoice, and, if applicable (in cases where Service Provider is performing Services on behalf of an Teklabspace customer), ten (10) days of receipt of payment of such Services from Teklabspace’s customer. Service Provider shall not invoice Teklabspace until Teklabspace’s acceptance of the Services or',
     link: 'Read More',
     route: 'Payment',
-    image: '/gifs/paymnet.gif',
+    image: 'https://fullego.com/paymnet.gif',
     paragraph:
       'In exchange for Service Provider’s obligations under this Agreement, Teklabspace shall pay Service Provider the fees set forth in the applicable SOW. All payments are due in U.S. dollars within the later of sixty (60) days of Teklabspace’s receipt of an undisputed invoice, and, if applicable (in cases where Service Provider is performing Services on behalf of an Teklabspace customer), ten (10) days of receipt of payment of such Services from Teklabspace’s customer. Service Provider shall not invoice Teklabspace until Teklabspace’s acceptance of the Services or',
     paragraph2:
@@ -109,7 +109,7 @@ const cards = [
       'This Agreement remains in effect until terminated in accordance with this Section 9. Either party may terminate this Agreement if the other party: (a) fails to cure any material breach of this Agreement within 30 days after written notice of such breach; (b) ceases operation without a successor; or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors arrangement, composition or comparable proceeding, or if any such proceeding is instituted against such party (and not dismissed within 60 days thereafter). Teklabspace may terminate this',
     link: 'Read More',
     route: 'TermAndTermination',
-    image: '/gifs/termstermination.gif',
+    image: 'https://fullego.com/termstermination.gif',
     paragraph:
       'This Agreement remains in effect until terminated in accordance with this Section 9. Either party may terminate this Agreement if the other party: (a) fails to cure any material breach of this Agreement within 30 days after written notice of such breach; (b) ceases operation without a successor; or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors arrangement, composition or comparable proceeding, or if any such proceeding is instituted against such party (and not dismissed within 60 days thereafter). Teklabspace may terminate this Agreement at any time for any reason and without warning. Should Teklabspace exercise this right, it shall pay Service Provider up until the day of termination. All of the provisions of this Agreement shall survive any termination or expiration except Sections 2 (Services), 3 (No Subcontractor), 4 (Changes) and 8 (Payment) (except that Section 8 shall survive with respect to payments earned prior to termination).',
     paragraph2: '',
@@ -120,7 +120,7 @@ const cards = [
       '10.1 Obligation to Pay Tax. Service Provider shall be solely responsible and liable for any employment related taxes, social security payments, insurance premiums or other employment benefits or contributions required by law respecting Service Provider’s performance of the Services or receipt of the fee by Service Provider, or both (including any interest or penalties incurred in respect of such payments). 10.2 Tax Indemnity. Service Provider shall indemnify and keep indemnified Teklabspace for all time on demand from and against any and all costs, claims, ',
     link: 'Read More',
     route: 'IndependentContractor',
-    image: '/gifs/indepednet conatrctor.gif',
+    image: 'https://fullego.com/indepednet conatrctor.gif',
     paragraph:
       '10.1 Obligation to Pay Tax. Service Provider shall be solely responsible and liable for any employment related taxes, social security payments, insurance premiums or other employment benefits or contributions required by law respecting Service Provider’s performance of the Services or receipt of the fee by Service Provider, or both (including any interest or penalties incurred in respect of such payments).10.2 Tax Indemnity. Service Provider shall indemnify and keep indemnified Teklabspace for all time on demand from and against any and all costs, claims,',
     paragraph2:
@@ -132,7 +132,7 @@ const cards = [
       'Other than in the performance of the Agreement, neither Service Provider nor Service Provider’s agents, employees, or subcontractors shall use or disclose to any person or entity any Confidential Information of Teklabspace (whether in written, oral, electronic or other form), which is obtained from Teklabspace or otherwise prepared or discovered either in the performance of this Agreement, through access to Systems (as defined below), or while on Teklabspace’s premises. The provisions of this section relating to use and disclosure shall not apply to any information that: (i) is rightfully ',
     link: 'Read More',
     route: 'ConfidentialInformation',
-    image: '/gifs/confidentaional information.gif',
+    image: 'https://fullego.com/confidentaional information.gif',
     paragraph:
       'Other than in the performance of the Agreement, neither Service Provider nor Service Provider’s agents, employees, or subcontractors shall use or disclose to any person or entity any Confidential Information of Teklabspace (whether in written, oral, electronic or other form), which is obtained from Teklabspace or otherwise prepared or discovered either in the performance of this Agreement, through access to Systems (as defined below), or while on Teklabspace’s premises. The provisions of this section relating to use and disclosure shall not apply to any information that: (i) is rightfully ',
     paragraph2:
@@ -144,7 +144,7 @@ const cards = [
       '12.1 Access to Teklabspace’s Systems. Access, if any, to Teklabspace’s computer, telecommunication or other information systems (including computers, networks, voice mail, etc.) or those of any Teklabspace client or customer (“Systems”) is granted solely to facilitate the business relationship described in this Agreement, and is limited to those specific Systems, time periods, and personnel designated by Teklabspace. Access is subject to business control and all applicable policies, laws and regulations. Service Provider will abide by all information protection or data ',
     link: 'Read More',
     route: 'AccessToSystems',
-    image: '/gifs/accesssapce.gif',
+    image: 'https://fullego.com/accesssapce.gif',
     paragraph:
       '12.1 Access to Teklabspace’s Systems. Access, if any, to Teklabspace’s computer, telecommunication or other information systems (including computers, networks, voice mail, etc.) or those of any Teklabspace client or customer (“Systems”) is granted solely to facilitate the business relationship described in this Agreement, and is limited to those specific Systems, time periods, and personnel designated by Teklabspace. Access is subject to business control and all applicable policies, laws and regulations. Service Provider will',
     paragraph2:
@@ -157,7 +157,7 @@ const cards = [
       'Service Provider will defend, indemnify and hold harmless Teklabspace, their officers, directors, employees, sublicensees, customers and agents from any and all direct or indirect claims, losses, liabilities, damages, expenses and costs (including legal fees and court costs) arising from or relating to: (i) any breach or alleged breach of any representation, warranty or other provision of this Agreement by Service Provider, and (ii) any infringement or alleged infringement by Service Provider, the Services or any Deliverable of any third-party intellectual property rights (iii) any.',
     link: 'Read More',
     route: 'Indemnification',
-    image: '/gifs/Systems HUD.gif',
+    image: 'https://fullego.com/Systems HUD.gif',
     paragraph:
       'Service Provider will defend, indemnify and hold harmless Teklabspace, their officers, directors, employees, sublicensees, customers and agents from any and all direct or indirect claims, losses, liabilities, damages, expenses and costs (including legal fees and court costs) arising from or relating to: (i) any breach or alleged breach of any representation, warranty or other provision of this Agreement by Service Provider, and (ii) any infringement or alleged infringement by Service Provider, the Services or any Deliverable of any third-party intellectual property rights; (iii) any ',
     paragraph2:
@@ -179,7 +179,7 @@ const cards = [
       'Service Provider is solely responsible for maintaining adequate health, automobile, workers’ compensation, unemployment compensation, disability, liability, and any other type of insurance required by law or as is common practice in Service Provider’s business including a comprehensive policy of insurance to cover Service Provider’s liability in respect of any act, omission or default for which Service Provider may himself become liable, or become liable to indemnify the Company under this Agreement (including Insurance to cover third party, employer’s and',
     link: 'Read More',
     route: 'Insurance',
-    image: '/gifs/insurense.gif',
+    image: 'https://fullego.com/insurense.gif',
     paragraph:
       'Service Provider is solely responsible for maintaining such adequate health, automobile, workers’ compensation, unemployment compensation, disability, liability, and any other type of insurance required by law or as is common practice in Service Provider’s business including a comprehensive policy of insurance to cover Service Provider’s liability in respect of any act, omission or default for which Service Provider may himself become liable, or become liable to indemnify the Company under this Agreement (including insurance to cover third party, employer’s and ',
     paragraph2:

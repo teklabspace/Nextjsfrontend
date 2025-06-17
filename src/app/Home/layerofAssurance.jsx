@@ -10,7 +10,7 @@ const layerofAssurance = () => {
         >
           <div className='md:w-1/2 flex items-center justify-center p-2'>
             <img
-              src='/gifs/Api.gif'
+              src='https://fullego.com/Api.gif'
               className='w-full h-full rounded-xl'
               alt=''
             />

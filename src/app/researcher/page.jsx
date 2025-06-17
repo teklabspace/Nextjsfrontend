@@ -38,7 +38,7 @@ function ResearcherContent() {
       inshort: 'VAPT',
       description:
         'Premium Pentest is typically designed to check the box on Teklabspace gives you so much more. We start by working with you to align the project’s scope with your needs. We’ll then gather details on your attack surface and ensure hackers are fully aware of your unique targets and goals. As hackers use real-world tactics to assess your scope for vulnerabilities, they’ll submit reports through our platform, giving you instant visibility into findings and potential risks. At the conclusion of the pentest, you’ll receive a detailed report of findings, recommendations, and remediation results to share with your auditors and use to improve your overall security.',
-      imgSrc: '/gifs/vapt.gif',
+      imgSrc: 'https://fullego.com/vapt.gif',
       cards: [
         {
           icon: '/user.svg',
@@ -80,7 +80,7 @@ function ResearcherContent() {
       inshort: 'VDP',
       description:
         'A VDP is the digital equivalent of “if you see something, say something.” Teklabspace makes it easy to get started working directly with hackers to minimize risk. We’ll help you draft your VDP using NISTrecommended practices tailored for your unique needs. We’ll then publish it and start directing friendly hackers to submit findings through our platform. Every submission will then arrive to those who need to be aware in a consistent format, and, if validated, the information will integrate seamlessly with your existing systems and workflows.',
-      imgSrc: '/gifs/vapt.gif',
+      imgSrc: 'https://fullego.com/vapt.gif',
       cards: [
         {
           icon: '/user.svg',
@@ -122,7 +122,7 @@ function ResearcherContent() {
       inshort: 'BUG BOUNTY',
       description:
         'Bounty programs pay hackers when they find a valid security vulnerability, and Teklabspace Bounty puts you in total control of your program. You’ll start by detailing your program’s scope of targets, what types of findings are eligible, the rewards hackers can earn, and what information hackers should include in their reports. We’ll then help you invite select hackers to a private program or promote a public program to our community of hundreds of thousands of global hackers. As new bug reports start arriving, your team or our white-glove optional triage services team will use the Teklabspace platform to communicate with the hacker, validate the reported bug, and standardize the reported information. Teklabspace then pushes that information to your remediation teams and systems, and then pays the hacker their earned bounty. Along the way, you gain instant visibility into report trends, bug details, bounty payments, and more, to continuously improve your security efforts. Our experts will design, manage, and support your bug bounty.',
-      imgSrc: '/gifs/vapt.gif',
+      imgSrc: 'https://fullego.com/vapt.gif',
       cards: [
         {
           icon: '/user.svg',
@@ -164,7 +164,7 @@ function ResearcherContent() {
       inshort: 'VDP',
       description:
         'A VDP is the digital equivalent of “if you see something, say something.” Teklabspace makes it easy to get started working directly with hackers to minimize risk. We’ll help you draft your VDP using NISTrecommended practices tailored for your unique needs. We’ll then publish it and start directing friendly hackers to submit findings through our platform. Every submission will then arrive to those who need to be aware in a consistent format, and, if validated, the information will integrate seamlessly with your existing systems and workflows.',
-      imgSrc: '/gifs/vapt.gif',
+      imgSrc: 'https://fullego.com/vapt.gif',
       cards: [
         {
           icon: '/user.svg',
@@ -240,7 +240,7 @@ function ResearcherContent() {
             </div>
             <div className='flex justify-center'>
               <img
-                src='/gifs/reserch1.gif'
+                src='https://fullego.com/reserch1.gif'
                 alt='Security research animation'
                 className='h-auto rounded-lg shadow-md w-full'
               />

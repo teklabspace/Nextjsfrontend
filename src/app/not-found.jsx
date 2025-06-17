@@ -19,7 +19,7 @@ export default function Error({ error, reset }) {
     >
       <main className='flex-grow flex items-center justify-center mt-10'>
         <div className='text-center'>
-          <img src='/gifs/errorpage.gif' alt='Error' className='mx-auto' />
+          <img src='https://fullego.com/errorpage.gif' alt='Error' className='mx-auto' />
           <p className='text-lg text-white mb-6'>
             Uh-oh! We couldn’t find the page you were looking for.
           </p>

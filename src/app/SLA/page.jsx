@@ -1,5 +1,6 @@
 'use client';
 
+
 import Footer from '@/components/Footer';
 import MetaTags from '@/components/MetaTags';
 import Navbar from '@/components/Navbar';

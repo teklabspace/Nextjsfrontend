@@ -690,7 +690,7 @@ export default function HackCollage() {
             {/* Image Section */}
             <div className='flex justify-center'>
               <img
-                src='/gifs/hack college.gif'
+                src='https://pub-28a9918c538a4d75b0983315d5bdad75.r2.dev/hack%20college.gif'
                 alt='Security research animation'
                 className='w-full max-w-sm lg:max-w-md h-auto rounded-xl shadow-lg'
               />

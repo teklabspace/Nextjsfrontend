@@ -48,7 +48,7 @@ const hardenattackSurface = () => {
 
           <div className='md:w-1/2  flex items-center justify-center p-2'>
             <img
-              src='/gifs/Touch.gif'
+              src='https://fullego.com/Touch.gif'
               className='w-full  rounded-xl h-full'
               alt=''
             />

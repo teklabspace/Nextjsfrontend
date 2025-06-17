@@ -6,10 +6,14 @@ import { useEffect } from 'react';
 const generateRandomDots = count => {
   return Array.from({ length: count }, (_, i) => ({
     id: i,
-    top: Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto', // Added 10% padding
-    bottom: Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
-    left: Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
-    right: Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
+    top:
+      Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto', // Added 10% padding
+    bottom:
+      Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
+    left:
+      Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
+    right:
+      Math.random() < 0.5 ? `${Math.floor(Math.random() * 80) + 10}%` : 'auto',
     bgColor: Math.random() < 0.5 ? '#D9D9D9' : '#B70AC1',
   }));
 };
@@ -36,7 +40,9 @@ const WhyTeklabspace = () => {
       <div className='flex items-center bg-[#292F43] px-4 sm:px-6 lg:px-8 justify-center min-h-screen'>
         <div className='w-full relative py-8 sm:py-12'>
           {/* Random Dots - Hidden on Mobile */}
-          <div className='absolute inset-0 hidden sm:block pointer-events-none z-0'> {/* Set z-0 to place dots below cards */}
+          <div className='absolute inset-0 hidden sm:block pointer-events-none z-0'>
+            {' '}
+            {/* Set z-0 to place dots below cards */}
             {randomDots.map(dot => (
               <div
                 key={dot.id}
@@ -57,7 +63,9 @@ const WhyTeklabspace = () => {
             </span>
           </h1>
 
-          <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 lg:gap-8 max-w-full sm:max-w-3xl lg:max-w-5xl mx-auto pt-4 sm:pt-8 relative z-10'> {/* Set z-10 for cards */}
+          <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 lg:gap-8 max-w-full sm:max-w-3xl lg:max-w-5xl mx-auto pt-4 sm:pt-8 relative z-10'>
+            {' '}
+            {/* Set z-10 for cards */}
             {/* First Column - Secure Collaboration */}
             <div className='flex justify-center'>
               <motion.div
@@ -78,7 +86,6 @@ const WhyTeklabspace = () => {
                 </p>
               </motion.div>
             </div>
-
             {/* Second Column - Elite Researcher Network (Top Right on Tablet) */}
             <div className='flex justify-center lg:col-start-2 lg:row-start-1'>
               <motion.div
@@ -100,7 +107,6 @@ const WhyTeklabspace = () => {
                 </p>
               </motion.div>
             </div>
-
             {/* Third Column - AI-Powered Insights (Bottom Right on Tablet) */}
             <div className='flex justify-center sm:col-start-2 sm:row-start-2 lg:col-start-2 lg:row-start-2'>
               <motion.div
@@ -121,7 +127,6 @@ const WhyTeklabspace = () => {
                 </p>
               </motion.div>
             </div>
-
             {/* Fourth Column - Continuous Coverage (Bottom Left on Tablet) */}
             <div className='flex justify-center sm:col-start-1 sm:row-start-2 lg:col-start-3 lg:row-start-1'>
               <motion.div

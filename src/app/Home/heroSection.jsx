@@ -132,8 +132,8 @@ const HeroSection = () => {
             {/* Main Image */}
             <img
               ref={imageRef}
-              src='/gifs/2.gif'
-              className='object-cover w-[654px] h-full md:-ms-15 rounded-0 md:rounded-3xl'
+              src='https://fullego.com/2.gif'
+              className='object-cover w-[654px] h-full md:-ms-13 rounded-0 md:rounded-3xl'
               alt='Cyber defense animation'
             />
 
@@ -145,7 +145,7 @@ const HeroSection = () => {
             </div>
 
             {/* Dot 2 */}
-            <div className='bg-[#B70AC1] w-[50px] h-[50px] rounded-full hidden md:flex justify-center items-center text-white z-10 absolute top-[40%] -left-[15%]'>
+            <div className='bg-[#B70AC1] w-[50px] h-[50px] rounded-full hidden md:flex justify-center items-center text-white z-10 absolute top-[40%] -left-[13%]'>
               <p className='text-[5px] text-center px-2 leading-tight'>
                 Advanced threat response needed
               </p>

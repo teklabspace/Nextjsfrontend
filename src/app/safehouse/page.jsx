@@ -59,7 +59,7 @@ export default function Safehouse() {
             Submit a report
           </button>
           <img
-            src='/gifs/safehouse.gif'
+            src='https://fullego.com/safehouse.gif'
             className='w-full max-w-md h-auto rounded-lg mt-4'
             alt='Safehouse Animation'
           />

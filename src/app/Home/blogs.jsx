@@ -45,7 +45,7 @@ const blogs = () => {
             </a>
 
             <img
-              src='/gifs/our blogs1.gif'
+              src='https://fullego.com/our blogs1.gif'
               className='w-full h-[250px]  md:h-[300px] rounded-4xl object-cover'
               alt='Blog 1'
             />
@@ -81,7 +81,7 @@ const blogs = () => {
           <div className='col-span-1 md:col-span-2 lg:col-span-8 flex flex-col lg:flex-row bg-[#292F43] rounded-4xl shadow'>
             <div className='relative flex items-center justify-center'>
               <img
-                src='/gifs/blog2.gif'
+                src='https://fullego.com/blog2.gif'
                 alt='Security Icon'
                 className='w-full h-[250px] md:h-[300px] rounded-4xl object-cover'
               />
@@ -124,7 +124,7 @@ const blogs = () => {
           <div className='col-span-1 md:col-span-2 lg:col-span-8 flex flex-col lg:flex-row bg-[#292F43] rounded-4xl shadow'>
             <div className='relative flex items-center justify-center '>
               <img
-                src='/gifs/11.gif'
+                src='https://fullego.com/11.gif'
                 alt='Tech Icon'
                 className='w-full h-[250px] md:h-[300px] rounded-4xl object-cover'
               />

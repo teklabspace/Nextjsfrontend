@@ -68,7 +68,7 @@ const page = () => {
           <div className='flex justify-center  items-center'>
             <div className='relative w-full max-w-[300px] border-[#B70AC1] p-2 border sm:max-w-[400px] aspect-square animate-image'>
               <img
-                src='/gifs/Digitalguardian.gif'
+                src='https://fullego.com/Digitalguardian.gif'
                 alt='Team illustration'
                 className='w-full h-full object-cover'
               />

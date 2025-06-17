@@ -1,11 +1,16 @@
-'use client';
-
-import { motion } from 'framer-motion';
-import Image from 'next/image';
+import SLACardMotion from './SLACardMotion.jsx'; // adjust the path
 import cards from '../data.js';
 
+export async function generateStaticParams() {
+  return cards
+    .filter(card => card.route) // Only include cards with a non-empty route
+    .map(card => ({
+      slug: card.route,
+    }));
+}
 const SLADetail = ({ params }) => {
   const { slug } = params;
+  console.log('slugs', slug);
   const card = cards.find(item => item.route === slug);
   if (!card) {
     return (
@@ -27,7 +32,7 @@ const SLADetail = ({ params }) => {
         <br />
         Kindly read through and agree before sign up to our services.
       </p>
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
@@ -56,7 +61,7 @@ const SLADetail = ({ params }) => {
           </div>
         </div>
 
-        {/* Full-width second paragraph below */}
+        
         <div className='p-4'>
           <p className='text-sm sm:text-base md:text-lg text-[#FFFFFF] leading-relaxed mb-8'>
             {card.paragraph2}
@@ -67,8 +72,9 @@ const SLADetail = ({ params }) => {
           <Link href='/SLA' className='text-[#B70AC1] hover:underline text-lg'>
             Back to SLA
           </Link>
-        </div> */}
-      </motion.div>
+        </div> 
+      </motion.div> */}
+      <SLACardMotion card={card} />
     </section>
   );
 };

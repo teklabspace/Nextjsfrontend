@@ -99,7 +99,7 @@ export default function AboutPage() {
             transition={{ duration: 0.8 }}
           >
             <img
-              src='/gifs/abt us.gif'
+              src='https://fullego.com/abt us.gif'
               alt='Inspire'
               className='w-full max-w-sm mx-auto rounded-lg'
             />
@@ -114,7 +114,7 @@ export default function AboutPage() {
             transition={{ duration: 1 }}
           >
             <img
-              src='/gifs/abt us2.gif'
+              src='https://fullego.com/abt us2.gif'
               alt='Organizations'
               className='w-full max-w-sm mx-auto rounded-lg'
             />

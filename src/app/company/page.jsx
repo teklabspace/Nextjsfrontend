@@ -46,7 +46,7 @@ export default function Company() {
             className='flex justify-center'
           >
             <img
-              src='/gifs/Electric-quantity-unscreen.gif'
+              src='https://fullego.com/Electric-quantity-unscreen.gif'
               alt='Hero Icon'
               className='w-28 sm:w-36 md:w-40 lg:w-92 object-contain mx-auto'
             />
@@ -66,7 +66,7 @@ export default function Company() {
       <section className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-12 px-4 md:px-12 pb-16'>
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company1.gif'
+            src='https://fullego.com/company1.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />
@@ -97,7 +97,7 @@ export default function Company() {
         </motion.div>{' '}
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company2.gif'
+            src='https://fullego.com/company2.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />
@@ -127,7 +127,7 @@ export default function Company() {
         </motion.div>{' '}
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company3.gif'
+            src='https://fullego.com/company3.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />
@@ -157,7 +157,7 @@ export default function Company() {
         </motion.div>
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company4.gif'
+            src='https://fullego.com/company4.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />
@@ -187,7 +187,7 @@ export default function Company() {
         </motion.div>
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company1.gif'
+            src='https://fullego.com/company1.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />
@@ -213,7 +213,7 @@ export default function Company() {
         </motion.div>
         <motion.div className='card bg-[#292F43]  rounded-xl shadow-lg space-y-4 hover:shadow-xl transition-shadow duration-300'>
           <img
-            src='/gifs/company6.gif'
+            src='https://fullego.com/company6.gif'
             className=' rounded-xl h-[321px] w-full'
             alt=''
           />

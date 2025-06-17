@@ -11,7 +11,7 @@ const logos = [
   { src: '/Group 15128.svg', alt: 'M' },
   { src: '/Group 15160.svg', alt: 'Adobe' },
   { src: '/Group 15161.svg', alt: 'Google' },
-  { src: '/Group 15163.svg', alt: 'Microsoft' },
+  { src: '/WindowaMicrosoft.svg', alt: 'Microsoft' },
   { src: '/Docker.svg', alt: 'Docker' },
   { src: '/Meta.svg', alt: 'Meta' },
 ];

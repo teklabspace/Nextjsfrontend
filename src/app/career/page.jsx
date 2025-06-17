@@ -68,7 +68,7 @@ export default function AboutPage() {
           <div className='flex justify-center items-center'>
             <div className='relative w-full max-w-[300px] sm:max-w-[400px] aspect-square'>
               <img
-                src='/gifs/3.gif'
+                src='https://fullego.com/3.gif'
                 alt='Team illustration'
                 className='w-full h-full object-contain'
               />
