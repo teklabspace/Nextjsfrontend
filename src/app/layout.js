@@ -11,7 +11,7 @@ const inter = Inter({
   variable: '--font-inter',
   display: 'swap',
 });
-export const runtime = 'edge';
+// export const runtime = 'edge';
 
 export const metadata = {
   title: 'Teklabspace',

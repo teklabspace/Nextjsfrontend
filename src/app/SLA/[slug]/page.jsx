@@ -1,4 +1,4 @@
-import SLACardMotion from './SLACardMotion.jsx'; // adjust the path
+import SLACardMotion from './SLADetailWrapper.jsx'; // adjust the path
 import cards from '../data.js';
 
 export async function generateStaticParams() {
