@@ -3,7 +3,7 @@
  */
 const nextConfig = {
   output: 'export',
-
+  basePath: '/Nextjsfrontend',
   // Optional: Change the output directory `out` -> `dist`
   distDir: 'dist',
   images: {
