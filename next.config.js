@@ -3,12 +3,13 @@
  */
 const nextConfig = {
   output: 'export',
-  basePath: '/Nextjsfrontend',
+  // basePath: '/Nextjsfrontend',
+
   // Optional: Change the output directory `out` -> `dist`
-  distDir: 'dist',
-  images: {
-    unoptimized: true,
-  },
+  // distDir: 'dist',
+  // images: {
+  //   unoptimized: true,
+  // },
 };
 
 module.exports = nextConfig;
